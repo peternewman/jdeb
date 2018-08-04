@@ -6,7 +6,7 @@
     <maven.compiler.source>1.6</maven.compiler.source>
     <maven.compiler.target>1.6</maven.compiler.target>
     <additionalparam>-Xdoclint:none</additionalparam>
-    <mavenVersion>3.2.5</mavenVersion>
+    <mavenVersion>3.5.0</mavenVersion>
     <!-- <mavenVersion>3.3.9</mavenVersion> -->
     <mavenPluginPluginVersion>3.4</mavenPluginPluginVersion>
   </properties>
@@ -352,7 +352,7 @@
     <dependency>
       <groupId>org.bouncycastle</groupId>
       <artifactId>bcpg-jdk15on</artifactId>
-      <version>1.53</version>
+      <version>1.60</version>
       <!-- <scope>provided</scope> -->
     </dependency>
     <dependency>
